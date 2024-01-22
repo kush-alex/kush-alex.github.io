@@ -91,7 +91,7 @@ a {
   border-color: #777;
   color: #fff !important; }
   .form-control:active, .form-control:focus {
-    border-color: #FF5677;
+    border-color: #495057;
     background: transparent; }
   .form-control:hover, .form-control:active, .form-control:focus {
     -webkit-box-shadow: none !important;
@@ -434,12 +434,12 @@ a {
       position: relative;
       color: #212529; }
       .site-mobile-menu .site-nav-wrap a:hover {
-        color: #FF5677; }
+        color: #495057; }
     .site-mobile-menu .site-nav-wrap li {
       position: relative;
       display: block; }
       .site-mobile-menu .site-nav-wrap li.active > a {
-        color: #FF5677; }
+        color: #495057; }
     .site-mobile-menu .site-nav-wrap .arrow-collapse {
       position: absolute;
       right: 0px;
@@ -518,14 +518,14 @@ a {
     position: absolute;
     height: 50%;
     bottom: 0;
-    background: #FF5677;
+    background: #495057;
     z-index: -1;
     width: 100%;
     -webkit-transition: .3s all ease;
     -o-transition: .3s all ease;
     transition: .3s all ease; }
   .intro a:hover {
-    color: #FF5677; }
+    color: #495057; }
     .intro a:hover:before {
       width: 0%; }
 
@@ -851,7 +851,7 @@ a {
     font-weight: bold;
     color: #cccccc; }
     .site-block-tab .nav-item > a:hover, .site-block-tab .nav-item > a.active {
-      border-bottom: 2px solid #FF5677;
+      border-bottom: 2px solid #495057;
       color: #000; }
 
 .block-13, .slide-one-item {
@@ -975,7 +975,7 @@ a {
         width: 80px;
         height: 4px;
         margin-top: -4px;
-        background: #FF5677;
+        background: #495057;
         top: 0; }
       .block-12 .text .text-inner .heading {
         font-size: 20px;
@@ -998,7 +998,7 @@ a {
     display: block;
     border-radius: 50%;
     opacity: 1;
-    color: #FF5677 !important; }
+    color: #495057 !important; }
     .block-16 figure .play-button:hover {
       opacity: 1; }
     .block-16 figure .play-button > span {
@@ -1036,7 +1036,7 @@ a {
   color: #999999; }
 
 .block-25 ul li a .meta {
-  color: #FF5677; }
+  color: #495057; }
 
 .block-25 ul li a:hover img {
   opacity: .5; }
@@ -1065,7 +1065,7 @@ a {
     position: absolute;
     width: 30px;
     height: 30px;
-    background: #FF5677;
+    background: #495057;
     border-radius: 50%;
     color: #fff; }
     .player .team-number > span {
@@ -1100,7 +1100,7 @@ a {
     border-radius: 50%;
     border: 1px solid #ccc; }
   .site-block-27 ul li.active a, .site-block-27 ul li.active span {
-    background: #FF5677;
+    background: #495057;
     color: #fff;
     border: 1px solid transparent; }
 
@@ -1248,7 +1248,7 @@ a {
 
 .swiper-pagination-bullet-active {
   opacity: 1;
-  background: #FF5677; }
+  background: #495057; }
 
 #lightgallery .item {
   margin-bottom: 30px; }
