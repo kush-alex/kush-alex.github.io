@@ -32,6 +32,56 @@
   <link rel="stylesheet" href="css/aos.css">
 
   <link rel="stylesheet" href="css/style.css">
+  
+    <!-- Custom top navigation styles -->
+    <style>
+      .top-nav {
+        background: rgba(0, 0, 0, 0.6);
+        padding: 15px 20px;
+        border-radius: 10px;
+        backdrop-filter: blur(10px);
+        box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
+        margin-top: 20px;
+        text-align: center;
+      }
+      
+      .top-nav ul {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 30px;
+      }
+      
+      .top-nav li {
+        margin: 0;
+      }
+      
+      .top-nav a {
+        color: #ffffff;
+        text-decoration: none;
+        font-size: 16px;
+        font-weight: 500;
+        padding: 10px 20px;
+        border-radius: 8px;
+        transition: all 0.3s ease;
+        display: block;
+        white-space: nowrap;
+      }
+      
+      .top-nav a:hover {
+        background: rgba(255, 255, 255, 0.2);
+        color: #ffffff;
+        text-decoration: none;
+      }
+      
+      .top-nav .active a {
+        background: rgba(255, 255, 255, 0.3);
+        color: #ffffff;
+      }
+    </style>
 </head>
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-1JKTC83X0R"></script>
@@ -64,29 +114,7 @@
             <h1 class="mb-0"><a href="index.html" class="text-white h2 mb-0">Alex Kush</a></h1>
           </div>
           <div class="col-10 col-md-6 d-none d-xl-block">
-            <!-- <nav class="site-navigation position-relative text-right text-lg-center" role="navigation">
-
-              <ul class="site-menu js-clone-nav mx-auto d-none d-lg-block">
-                <li class="active"><a href="index.html">Home</a></li>
-                <li class="has-children">
-                  <a href="single.html">Gallery</a>
-                  <ul class="dropdown arrow-top">
-                    <li><a href="single.html">Main</a></li>
-                    <li class="has-children">
-                      <a href="#">Sub Menu</a>
-                      <ul class="dropdown">
-                        <li><a href="#">Menu One</a></li>
-                        <li><a href="#">Menu Two</a></li>
-                        <li><a href="#">Menu Three</a></li>
-                      </ul>
-                    </li>
-                  </ul>
-                </li> 
-                <li><a href="services.html">Services</a></li>
-                <li><a href="about.html">About</a></li>
-                <li><a href="contact.html">Contact</a></li>
-              </ul>
-            </nav> -->
+            <!-- Navigation moved to left sidebar -->
           </div>
 
           <div class="col-6 col-xl-3 text-right">
@@ -119,6 +147,16 @@
       </div>
       
     </header>
+
+    <!-- Top Navigation below Alex Kush title -->
+    <div class="container">
+      <nav class="top-nav">
+        <ul>
+          <li class="active"><a href="index.html">Home</a></li>
+          <li><a href="griffith-park-views.html">Griffith Park Views</a></li>
+        </ul>
+      </nav>
+    </div>
 
     <div class="container py-5" data-aos="fade">
       <div class="row">
