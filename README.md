@@ -39,16 +39,24 @@ kush-alex.github.io/
 ├── index.html                          # Main portfolio page
 ├── griffith-park-views.html            # Griffith Park collection
 ├── venice-beach-sunset.html            # Venice Beach collection
+├── 404.html                            # Custom 404 error page
+├── .gitignore                          # Git ignore rules
+├── README.md                           # This file
+├── assets/                             # Static assets
+│   └── favicon.ico                     # Site favicon
 ├── css/                                # Stylesheets
 ├── js/                                 # JavaScript libraries
 ├── fonts/                              # Custom fonts and icons
 ├── images/                             # Photography collections
-│   ├── griffit_park_views/             # Griffith Park photos
-│   ├── venice_beach_sunset/            # Venice Beach photos
-│   └── [individual photos]
-├── AI_IMAGE_PROCESSING_GUIDE.md        # Image optimization guide
-├── PHOTOGRAPHY_GALLERY_CREATION_GUIDE.md # Development documentation
-└── README.md                           # This file
+│   ├── main_gallery/                   # Main gallery photos with thumbnails
+│   ├── griffit_park_views/             # Griffith Park photos with thumbnails
+│   └── venice_beach_sunset/            # Venice Beach photos with thumbnails
+├── scss/                               # SASS source files
+├── docs/                               # Documentation files
+│   ├── AI_IMAGE_PROCESSING_GUIDE.md    # Image optimization guide
+│   └── PHOTOGRAPHY_GALLERY_CREATION_GUIDE.md # Development documentation
+└── config/                             # Configuration files
+    └── prepros-6.config                # Build tool configuration
 ```
 
 ## 🚀 Getting Started
