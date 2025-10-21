@@ -13,6 +13,7 @@ This website features a curated collection of photography work, including:
 - **Mixed Gallery** - Main collection featuring diverse photography styles
 - **Griffith Park Views** - Dedicated collection of park and nature photography  
 - **Venice Beach Sunset** - Specialized collection of California sunset photography
+- **Alterlaa** - Architectural photography collection from Vienna, Austria
 
 ## ✨ Features
 
@@ -50,7 +51,8 @@ kush-alex.github.io/
 ├── images/                             # Photography collections
 │   ├── main_gallery/                   # Main gallery photos with thumbnails
 │   ├── griffit_park_views/             # Griffith Park photos with thumbnails
-│   └── venice_beach_sunset/            # Venice Beach photos with thumbnails
+│   ├── venice_beach_sunset/            # Venice Beach photos with thumbnails
+│   └── alterlaa/                       # Alterlaa architectural photos with thumbnails
 ├── scss/                               # SASS source files
 ├── docs/                               # Documentation files
 │   ├── AI_IMAGE_PROCESSING_GUIDE.md    # Image optimization guide
@@ -98,6 +100,7 @@ kush-alex.github.io/
 - **Home** - Main gallery with mixed photography collection
 - **Griffith Park Views** - Nature and park photography (9 images)
 - **Venice Beach Sunset** - Beach and sunset photography (7 images)
+- **Alterlaa** - Architectural photography from Vienna, Austria (8 images)
 
 Each collection features:
 - High-quality thumbnail previews (654x654px)
