@@ -109,7 +109,6 @@ See `AI_IMAGE_PROCESSING_GUIDE.md` for detailed instructions.
 
 **Alex Kushnarenko**
 - Instagram: [@alex.the.kush](https://www.instagram.com/alex.the.kush/)
-- Location: Kharkiv, Ukraine
 
 ## 🤝 Contributing
 
